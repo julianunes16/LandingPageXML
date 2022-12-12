@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+    <postagem codigo="1">
+        <titulo>Em vigor nova lei que dispõe sobre procedimentos de alienação e registro de imóveis da União</titulo>
+        <corpo>Em vigor a Lei nº 14.474.2022 que modifica a forma de reajuste das receitas patrimoniais da União decorrentes da atualização da planta de valores, além de desburocratizar procedimentos de alienação e registro de imóveis da União, dispondo também sobre prazo de transferência de imóveis e regras de demarcação de terrenos de marinha.
+        De acordo com o texto legal, nos registros relativos a direitos reais de titularidade da União, deverão ser utilizados o número de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) do órgão central da Secretaria de Coordenação e Governança do Patrimônio da União e o nome "UNIÃO", independentemente do órgão gestor do imóvel.</corpo>
+        <imagem_1>noticia1.jpg</imagem_1>
+    </postagem>
+        <postagem codigo="2">
+        <titulo>Membros do MP questionam artigo da Lei Maria da Penha que trata de audiência de retratação</titulo>
+        <corpo>A Associação Nacional dos Membros do Ministério Público (Conamp) ajuizou ação em que requer que o Supremo Tribunal Federal (STF) garanta a continuidade de ações penais nos casos em que a vítima de violência doméstica não comparecer à audiência de retratação. A Ação Direta de Inconstitucionalidade (ADI) 7267 foi distribuída ao ministro Edson Fachin.
+        A discussão diz respeito ao artigo 16 da Lei Maria da Penha (Lei 11.340/2006), que prevê que, nas ações penais públicas condicionadas à representação da vítima (lesão corporal leve e lesão culposa), a renúncia só será admitida perante o juiz, em audiência especialmente designada para essa finalidade, antes do recebimento da denúncia e após ouvido o Ministério Público.
+    </corpo>
+        <imagem_1>noticia2.jpg</imagem_1>
+    </postagem>
+            <postagem codigo="3">
+        <titulo>Extinção de contratos celebrados sem licitação entre agências franqueadas e ECT têm amparo legal e independe de funcionamento de novas agências</titulo>
+        <corpo>Em cumprimento à norma constitucional que veda contratos sem licitação, a 6ª Turma do Tribunal Regional Federal da 1ª Região (TRF1) confirmou a sentença que negou o pedido da Associação de Agências de Comunicação Franqueadas do Estado do Pará (Acofepa) para que os contratos celebrados entre os associados e a Empresa Brasileira de Correios e Telégrafos (ECT) sejam extintos somente quando as novas agências entrarem em efetivo funcionamento.
+        No recurso contra a sentença, no mandado de segurança coletivo, a Acofepa sustentou que o Decreto 6.805/2009 extrapolou o poder regulamentar. A Lei 11.668/2008 determinou que os contratos celebrados entre os membros da Associação e a ECT sejam extintos apenas quando as novas agências franqueadas, criadas conforme o Decreto 6.639/2008 (AGFs), entrarem em efetivo funcionamento, argumentou a associação.</corpo>
+        <imagem_1>noticia3.jpeg</imagem_1>
+    </postagem>
+</conteudo>

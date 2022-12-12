@@ -1,0 +1,83 @@
+#noticia {
+    color: white;
+    position: relative;
+}
+.corpo{
+    font-size: 20px;
+}
+#btn-mais{
+    width: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+header{
+    width: 100%;
+    height: 500px;
+    background-image: url('imgs/direito_img.jfif');
+
+}
+
+#inicio{
+   background-color: branco;
+   
+}
+
+#titulo-nav{
+    font-size: 4vh;
+}
+
+#links{
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#texto{
+    color: #fff;
+    font-size: 3vh;
+}
+
+#texto-preto{
+    color: #000000;
+}
+
+#titulos{
+    color: #fff;
+}
+
+#titulo-faculdades{
+    color: black;
+}
+
+#titulo-entrevista{
+    color: #000000;
+}
+
+#texto-faculdades{
+    color: #000000;
+}
+
+#icones{
+    color: #000000;
+}
+
+#nome-faculdades{
+    color: #000000;
+    font-size: 6vh;
+}
+
+#nome-extenso-faculdades{
+    color: #000000;
+    font-size: 3vh;
+}
+
+#nome-extenso-faculdades-ufpb{
+    color: #000000;
+}
+
+#pos-graduacao{
+    padding-top: 50px;
+  }
